@@ -16,12 +16,13 @@ Rabbit is a web-based platform where users can create and join online communitie
 
 | Route                | HTTP Method | DB Action | Description             |
 | -----------          | ----------- | --------- | ----------------------- |
-| /api/                | GET         | INDEX     | Indexes                 |
-| /api/profile         | GET         | INDEX     | Indexes                 |
-| /api/burrow          | POST        | CREATE    | Create                  |
-| /api/:user           | GET         | SHOW      | Show                    |
-| /api/profile/        | PUT         | UPDATE    | Update                  |
-| /api/delete          | DELETE      | DELETE    | Delete                  |
+| /api/                | GET         | INDEX     | Indexes all posts       |
+| /api/:user           | GET         | INDEX     | Indexes your posts      |
+| /api/burrow/:burrow  | GET         | INDEX     | Indexes posts in burrow |
+| /api/post/:post      | GET         | SHOW      | Shows the post          |
+| /api/                | POST        | CREATE    | Create a post           |
+| /api/:post           | PUT         | UPDATE    | Update a post           |
+| /api/:post           | DELETE      | DELETE    | Delete a post           |
 
 
 ## WIREFRAMES: 
