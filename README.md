@@ -26,6 +26,7 @@ Rabbit is a web-based platform where users can create and join online communitie
 
 ## WIREFRAMES: 
 
+<img width="803" alt="Screenshot 2023-03-31 at 3 04 00 PM" src="https://user-images.githubusercontent.com/122382995/229207639-43781d2d-45bd-4315-a5e3-87a17960ca91.png">
 
 
 ## MVP:
