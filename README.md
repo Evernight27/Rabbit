@@ -18,9 +18,9 @@ Rabbit is a web-based platform where users can create and join online communitie
 | -----------          | ----------- | --------- | ----------------------- |
 | /api/                | GET         | INDEX     | Indexes                 |
 | /api/profile         | GET         | INDEX     | Indexes                 |
-| /api/                | POST        | CREATE    | Create                  |
+| /api/burrow          | POST        | CREATE    | Create                  |
 | /api/:user           | GET         | SHOW      | Show                    |
-| /api/profile/:anime  | PUT         | UPDATE    | Update                  |
+| /api/profile/        | PUT         | UPDATE    | Update                  |
 | /api/delete          | DELETE      | DELETE    | Delete                  |
 
 
