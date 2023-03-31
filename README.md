@@ -5,11 +5,11 @@ Rabbit is a web-based platform where users can create and join online communitie
 
 ## DATA MODEL:
 
-![image](https://user-images.githubusercontent.com/122382995/229201943-b411f917-017c-42be-9126-69fd74f330b3.png)
+![image](https://user-images.githubusercontent.com/122382995/229207882-e5c2ef0d-9761-4ef6-b00d-99d2597c6456.png)
 
 ## COMPONENT TREE:
 
-![image](https://user-images.githubusercontent.com/122382995/229196480-43192843-33e1-43fd-89a2-f6c57e37aa59.png)
+![image](https://user-images.githubusercontent.com/122382995/229208095-665737eb-6197-4c1d-8038-023086589280.png)
 
 
 ## ROUTING TABLE:
